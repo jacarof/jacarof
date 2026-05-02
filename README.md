@@ -1,4 +1,4 @@
-# Hola, soy Javier Caro 👋
+# Hola, soy Javier 👋
 
 ### 🖥️ Estudiante de Ingeniería en Infraestructura Tecnológica | AWS Certified Cloud Practitioner
 
